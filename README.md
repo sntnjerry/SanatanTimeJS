@@ -15,7 +15,7 @@ Simply use this code (Modify according to your needs):
         <script>
 
             var sanatan_time = new SanatanTime(); //Optional Parameters for constructor explained in Parameters Section.
-            console.log(sanatan_time.toString());
+            //Functions available are specified and explained in Functions section.
 
         </script>
     </body>
